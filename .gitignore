@@ -135,7 +135,7 @@ fabric.properties
 # Ignores the whole .idea folder and all .iml files
 # See https://github.com/joeblau/gitignore.io/issues/186 and https://github.com/joeblau/gitignore.io/issues/360
 
-.idea/
+.idea
 
 # Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-249601023
 
@@ -206,4 +206,8 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/osx,vagrant,eclipse,windows,intellij+all
-/.idea/
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/sMenu.iml
